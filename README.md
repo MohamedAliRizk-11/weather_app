@@ -115,6 +115,7 @@ Never commit private API keys or other sensitive credentials to a public reposit
 **Mohamed Ali Rizk**
 
 - GitHub: [MohamedAliRizk-11](https://github.com/MohamedAliRizk-11)
+- LinkedIn: [Mohamed Ali Rizk](https://www.linkedin.com/in/mohamed-ali-b56a23372/)
 
 ---
 
